@@ -1,7 +1,7 @@
 {
   "name": "ventstatus",
   "description": "Module that uses ventrilo_status to report on the status of a ventrilo server",
-  "main": "./lib/index",
+  "main": "./index",
   "version": "0.0.1",
   "engine": { "node": ">=0.4.0" },
   "author": "Nick Campbell (https://github.com/ncb000gt)",
