@@ -14,6 +14,7 @@ Config
       };
 
 You can also add in code which can be set to 1 or 2.
+
 * 1 provides cursory details.
 * 2 provides channel and user details.
 
