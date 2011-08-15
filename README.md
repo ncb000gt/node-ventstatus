@@ -28,3 +28,9 @@ Usage
         if (err) throw err;
         console.log(data);
       });
+
+
+License
+==========
+
+MIT
